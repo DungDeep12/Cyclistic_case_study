@@ -58,14 +58,14 @@ All 4 quarterly datasets consists of 3,818,004 rows and covers trips recorded fr
 *	gender: User's gender (if available)
 *	birthyear: User's birth year (if available)
 ### Data Cleaning Process
-1.	Rename Columns – Make column names consistent across all datasets.
-2.	Convert Data Types – Remove commas and convert tripduration to numbers.
-3.	Fill Missing Values
-    * Gender: Fill missing values based on the male-to-female ratio.
-    * Birth Year: Fill missing values using the median based on user type and quarter.
-5.	Add New Columns
-    * Age: Calculate by subtracting birth year from 2020
-  	* Day_of_week: Extract from start_time to show the day of the week
-  	* Age Group: Categorize users into age groups.
-5.	Merge Data – Combine all four quarterly datasets into one.
+1. **Rename Columns** – Make column names consistent across all datasets.
+3.	**Convert Data Types** – Remove commas and convert tripduration to numbers.
+4.	**Fill Missing Values**
+    * **Gender**: Fill missing values based on the male-to-female ratio.
+    * **Birth Year**: Fill missing values using the median based on user type and quarter.
+5.	**Add New Columns**
+    * **Age**: Calculate by subtracting birth year from 2020
+  	 * **Day_of_week**: Extract from start_time to show the day of the week
+  	 * **Age Group**: Categorize users into age groups.
+5.	**Merge Data** – Combine all four quarterly datasets into one.
 ## Analyze
