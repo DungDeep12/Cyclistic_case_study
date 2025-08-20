@@ -43,6 +43,8 @@ Are there issues with bias or credibility in this data? Does your data ROCCC?
 *	**Bias Concern**: The data may underrepresent certain groups, such as cash versus digital payments or variations across geographic regions.
 
 For this analysis, I used **Python** to explore the data.
+
+You can find the datasets I used and the full notebook [here](https://colab.research.google.com/drive/1LE2j1g_MxgIbKgxDdieDVqAavwOtQfQe?usp=sharing)
 ### Dataset Overview
 All 4 quarterly datasets consists of 3,818,004 rows and covers trips recorded from January 1, 2019, to December 31, 2019. It includes 12 columns with details about each trip:
 *	**trip_id**: Unique identifier for each trip
