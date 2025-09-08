@@ -71,3 +71,7 @@ All 4 quarterly datasets consists of 3,818,004 rows and covers trips recorded fr
   	 * **Age Group**: Categorize users into age groups.
 5.	**Merge Data** – Combine all four quarterly datasets into one.
 ## Analyze
+In this section, we analyze how annual members (subscribers) and casual riders (customers) use the bike-share service differently. By examining Trip Frequency and Volume, Trip Duration, Station Usage patterns, Time of Use (Temporal Pattern), Demographic Distributions, and key differences, we aim to provide actionable insights for designing targeted marketing strategies.
+### Trip Frequency and Duration
+To better understand how annual members and casual riders differ, we first explored ride frequency and trip duration
+**Graph 1: Total Trips by User Type**
