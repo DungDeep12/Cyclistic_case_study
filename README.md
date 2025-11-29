@@ -179,10 +179,13 @@ This analysis highlights distinct usage patterns between annual members and casu
 I used Tableau to recreate graphs, you can view it [here](https://public.tableau.com/app/profile/nguyen.dung6560/viz/CyclisticDashboard_17547474792690/Dashboard1) or from the [PDF](https://github.com/DungDeep12/Cyclistic_case_study/blob/main/Cyclistic%20DashBoard.pdf) version.
 ### Recommendations
 **1. Annual Plan for Weekday Commuters: Annual subscription with unlimited weekday rides for commuters**
-   * **Problem Solved:** Subscribers ride more on weekdays, indicating commuting patterns. This plan encourages casual riders who commute to switch from single-ride or day passes to annual memberships 
+   * **Problem Solved:** Subscribers ride more on weekdays, indicating commuting patterns. This plan encourages casual riders who commute to switch from single-ride or day passes to annual memberships
+
 **2. Annual Plan for Summer & Autumn Only: Seasonal subscription for Q2 and Q3, priced lower than full-year plans.**
    * **Problem Solved:** Targets casual riders active in warmer months (Summer, Fall)
+
 **3. Plan Only for Weekends: Unlimited weekend rides with discounts for longer trips.**
    * **Problem Solved:** Casual riders predominantly use bikes on weekends at tourist-heavy stations like Millennium Park. This plan targets their recreational habits, making membership more attractive without a full-week commitment.
+
 **4. Discounts for Women on Special Days: Offer subscription discounts on days like International Women’s Day, promoted through targeted digital campaigns.**
    * **Problem Solved:** Addresses 7% lower female subscriber proportion.
